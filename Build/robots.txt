@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.example.com/Ignite-Site//sitemap.xml
+Sitemap: https:/JoeyPickering123.githhub.io/Ignite-Site//sitemap.xml
